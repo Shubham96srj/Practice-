@@ -1,0 +1,9 @@
+Filesystem      Size  Used Avail Use% Mounted on
+overlay         415G  320G   74G  82% /
+tmpfs            64M     0   64M   0% /dev
+tmpfs           126G     0  126G   0% /sys/fs/cgroup
+shm              64M     0   64M   0% /dev/shm
+/dev/md3        415G  320G   74G  82% /etc/hosts
+tmpfs           126G     0  126G   0% /proc/acpi
+tmpfs           126G     0  126G   0% /proc/scsi
+tmpfs           126G     0  126G   0% /sys/firmware
